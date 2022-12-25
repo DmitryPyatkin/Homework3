@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Рабочий стол\Знакомство с языками программирования\Homework3\Task21\bin\Debug\net7.0\Task21.exe
+C:\Users\user\OneDrive\Рабочий стол\Знакомство с языками программирования\Homework3\Task21\bin\Debug\net7.0\Task21.deps.json
+C:\Users\user\OneDrive\Рабочий стол\Знакомство с языками программирования\Homework3\Task21\bin\Debug\net7.0\Task21.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\Знакомство с языками программирования\Homework3\Task21\bin\Debug\net7.0\Task21.dll
+C:\Users\user\OneDrive\Рабочий стол\Знакомство с языками программирования\Homework3\Task21\bin\Debug\net7.0\Task21.pdb
+C:\Users\user\OneDrive\Рабочий стол\Знакомство с языками программирования\Homework3\Task21\obj\Debug\net7.0\Task21.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\Знакомство с языками программирования\Homework3\Task21\obj\Debug\net7.0\Task21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\Знакомство с языками программирования\Homework3\Task21\obj\Debug\net7.0\Task21.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Знакомство с языками программирования\Homework3\Task21\obj\Debug\net7.0\Task21.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\Знакомство с языками программирования\Homework3\Task21\obj\Debug\net7.0\Task21.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Знакомство с языками программирования\Homework3\Task21\obj\Debug\net7.0\Task21.dll
+C:\Users\user\OneDrive\Рабочий стол\Знакомство с языками программирования\Homework3\Task21\obj\Debug\net7.0\refint\Task21.dll
+C:\Users\user\OneDrive\Рабочий стол\Знакомство с языками программирования\Homework3\Task21\obj\Debug\net7.0\Task21.pdb
+C:\Users\user\OneDrive\Рабочий стол\Знакомство с языками программирования\Homework3\Task21\obj\Debug\net7.0\Task21.genruntimeconfig.cache
+C:\Users\user\OneDrive\Рабочий стол\Знакомство с языками программирования\Homework3\Task21\obj\Debug\net7.0\ref\Task21.dll
